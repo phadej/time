@@ -1,3 +1,4 @@
+{-# LANGUAGE Safe #-}
 -- | Types and functions for UTC and UT1
 module Data.Time.Clock
 (

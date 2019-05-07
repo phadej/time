@@ -1,3 +1,4 @@
+{-# LANGUAGE Safe #-}
 module Data.Time.Clock.Internal.POSIXTime where
 
 import Data.Time.Clock.Internal.NominalDiffTime

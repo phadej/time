@@ -1,3 +1,4 @@
+{-# LANGUAGE Safe #-}
 {-# OPTIONS -fno-warn-unused-imports #-}
 {-# LANGUAGE ForeignFunctionInterface #-}
 module Data.Time.LocalTime.Internal.TimeZone

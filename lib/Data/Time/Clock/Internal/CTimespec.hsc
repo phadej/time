@@ -1,3 +1,4 @@
+{-# LANGUAGE Unsafe #-}
 module Data.Time.Clock.Internal.CTimespec where
 
 #include "HsTimeConfig.h"

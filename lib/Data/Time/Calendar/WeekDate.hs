@@ -1,3 +1,4 @@
+{-# LANGUAGE Safe #-}
 -- | ISO 8601 Week Date format
 module Data.Time.Calendar.WeekDate where
 

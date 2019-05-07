@@ -1,3 +1,4 @@
+{-# LANGUAGE Safe #-}
 -- | ISO 8601 Ordinal Date format
 module Data.Time.Calendar.OrdinalDate where
 

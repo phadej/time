@@ -1,3 +1,4 @@
+{-# LANGUAGE Safe #-}
 module Data.Time.LocalTime.Internal.CalendarDiffTime
     (
         -- * Calendar Duration

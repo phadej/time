@@ -1,3 +1,4 @@
+{-# LANGUAGE Safe #-}
 module Data.Time.Format.ISO8601
     (
         -- * Format

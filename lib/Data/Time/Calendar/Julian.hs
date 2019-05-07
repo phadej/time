@@ -1,3 +1,4 @@
+{-# LANGUAGE Safe #-}
 module Data.Time.Calendar.Julian
 (
     module Data.Time.Calendar.JulianYearDay,

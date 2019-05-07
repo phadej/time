@@ -1,3 +1,4 @@
+{-# LANGUAGE Safe #-}
 {-# OPTIONS -fno-warn-unused-imports #-}
 module Data.Time.LocalTime.Internal.TimeOfDay
 (
